@@ -1,3 +1,4 @@
+
 # TaskEase 🚀
 
 **TaskEase** is a stylish and fully responsive task management web application built with **React, Firebase, and AOS animations**.  
