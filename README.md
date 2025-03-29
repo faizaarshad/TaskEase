@@ -19,7 +19,7 @@ It offers a dark-themed UI, smooth scrolling effects, and Firebase Firestore int
 
 ## 🚀 Setup & Installation
 1. Clone the repository:  
-   git clone https://github.com/YOUR_GITHUB_USERNAME/TaskEase.git
+   git clone https://github.com/faizaarshad/TaskEase.git
 
 2. Navigate to the Project Directory:
    cd TaskEase
